@@ -1,0 +1,28 @@
+{
+  "name": "pathfinder-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/circlesland/pathfinder-export.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/circlesland/pathfinder-export/issues"
+  },
+  "homepage": "https://github.com/circlesland/pathfinder-export#readme",
+  "dependencies": {
+    "@types/node": "^17.0.31",
+    "pg": "^8.7.3",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.6.5"
+  }
+}
